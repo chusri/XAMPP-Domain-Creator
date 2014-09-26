@@ -2,7 +2,7 @@
 cd /D %~dp0
 SET XAMPPDIR=%~dp0
 SET BASEURL=%XAMPPDIR%htdocs\
-SET SUFFIX="dev"
+SET SUFFIX=dev
 
 @echo off
 echo ####### XAMPP Domain Creator v1.0 (c) Jimmy Hoang ######
