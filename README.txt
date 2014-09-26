@@ -11,11 +11,6 @@ It is a batch file that prompt you to input name then it will create a folder wi
 
 Default suffix is "dev" so if you enter jimmy as folder name you will have new virtual domain http://jimmy.dev You can change the suffix by edit line 5 in this script: SET SUFFIX="dev"
 
-============================================================================
-
-Thank you for downloading the Xampp Domain Creator. I hope it helps you to streamline
-web development workflow. 
-
 
 
 INSTALLATION
@@ -30,3 +25,9 @@ USING
 
 You can open a commandline window then change to XAMPP installed directory and run create_domain.bat.bat file
 Or open XAMPP shell window and run create_domain command.
+
+
+============================================================================
+
+Thank you for downloading the Xampp Domain Creator. I hope it helps you to streamline
+web development workflow. 
