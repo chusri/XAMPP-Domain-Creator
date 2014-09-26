@@ -9,7 +9,7 @@ I made this script to hep you create a virtual domain easier.
 
 It is a batch file that prompt you to input name then it will create a folder with the same name in htdocs folder. It also add config in httpd-vhosts.conf and modify the hosts file.
 
-Default suffix is "dev" so if you enter jimmy as folder name you will have new virtual domain http://jimmy.dev You can change the suffix by edit line 5 in this script: SET SUFFIX="dev"
+Default suffix is "dev" so if you enter jimmy as folder name you will have new virtual domain http://jimmy.dev You can change the suffix by edit line 5 in this script: SET SUFFIX=dev
 
 
 
