@@ -5,7 +5,7 @@
 Created by Jimmy Hoang
 -------------------------
 
-I made this script to hep you create a virtual domain easier. 
+I made this script to help you create a virtual domain easier. 
 
 It is a batch file that prompt you to input name then it will create a folder with the same name in htdocs folder. It also add config in httpd-vhosts.conf and modify the hosts file.
 
