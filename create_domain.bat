@@ -32,8 +32,10 @@ echo        ServerName %sitename%.%SUFFIX%
 echo        ServerAlias %sitename%.%SUFFIX%
 echo        ^<Directory "%BASEURL%%sitename%"^>
 echo            Options Indexes FollowSymLinks Includes ExecCGI
+echo            AllowOverride All
 echo            Order allow,deny
 echo            Allow from all
+echo            Require all granted
 echo        ^</Directory^>
 echo    ^</VirtualHost^>
 echo    ^<VirtualHost *:443^>
